@@ -1,2 +1,0 @@
-F:\School\cs335-0\InClass\WindowsApp1\WindowsApp1\WindowsApp1.WinPhone\WindowsApp1.WinPhone.csproj;neutral
-F:\School\cs335-0\InClass\WindowsApp1\WindowsApp1\WindowsApp1\WindowsApp1.csproj;neutral
