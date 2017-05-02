@@ -1,0 +1,43 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Title"
+        style="?android:listSeparatorTextViewStyle"/>
+
+    <!-- TODO: Update blank fragment layout -->
+    <EditText
+        android:id="@+id/crimeTitle"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:hint="Enter a crime title"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Details"
+        style="?android:listSeparatorTextViewStyle"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/crimeDateBtn"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:text="Submit"/>
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/crimeSolvedCbx"
+        android:text="Solved?"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"/>
+
+
+
+</LinearLayout>

@@ -1,0 +1,2 @@
+C:\Users\127106\NoteCards\NoteCards\NoteCards\NoteCards.csproj;neutral
+C:\Users\127106\NoteCards\Uni\NoteCards.Uni.csproj;x86

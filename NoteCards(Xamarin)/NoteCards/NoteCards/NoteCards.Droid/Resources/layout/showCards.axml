@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    tools:context="com.example.blake.myapplication.Main2Activity"
+    android:background="#DADADA"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:id="@+id/activity_main2">
+    <Button
+        android:layout_height="40dp"
+        android:layout_width="75dp"
+        android:id="@+id/prevBtn"
+        android:layout_marginTop="250dp"
+        android:layout_marginRight="30dp"
+        android:layout_toLeftOf="@+id/questionAnswer"
+        android:textSize="4pt"
+        android:background="@android:color/white"
+        android:textColor="#000"
+        android:text="Previous" />
+    <Button
+        android:layout_height="40dp"
+        android:layout_width="75dp"
+        android:id="@+id/nextBtn"
+        android:textSize="4pt"
+        android:background="@android:color/white"
+        android:textColor="#000"
+        android:text="Next"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignBottom="@+id/prevBtn" />
+    <TextView
+        android:layout_height="wrap_content"
+        android:layout_width="160dp"
+        android:id="@+id/questionAnswer"
+        android:text="No cards in deck, add some by pressing the add card button!"
+        android:textColor="#000"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:layout_marginTop="142dp" />
+    <TextView
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:id="@+id/date"
+        android:text="TextView"
+        android:textColor="#000"
+        android:layout_alignEnd="@+id/questionAnswer"
+        android:layout_alignRight="@+id/questionAnswer"
+        android:layout_above="@+id/nextBtn"
+        android:layout_marginBottom="24dp" />
+    <Button
+        android:layout_height="45dp"
+        android:layout_width="wrap_content"
+        android:id="@+id/addCardBtn"
+        android:layout_marginRight="22dp"
+        android:textSize="5pt"
+        android:background="@android:color/white"
+        android:textColor="#000"
+        android:text="+ Add card"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="17dp"
+        android:layout_marginEnd="22dp"
+        android:layout_alignParentBottom="true" />
+    <Spinner
+        android:layout_height="25dp"
+        android:layout_width="150dp"
+        android:id="@+id/topicChooser"
+        android:layout_above="@+id/questionAnswer"
+        android:layout_marginBottom="27dp"
+        android:layout_centerHorizontal="true" />
+    <Button
+        android:layout_height="30dp"
+        android:layout_width="wrap_content"
+        android:id="@+id/removeCard"
+        android:textSize="3pt"
+        android:background="@android:color/white"
+        android:textColor="#000"
+        android:text="Remove Card"
+        android:layout_marginTop="350dp"
+        android:layout_marginLeft="40dp" />
+    <Button
+        android:layout_height="30dp"
+        android:layout_width="wrap_content"
+        android:id="@+id/editCard"
+        android:text="Edit Card"
+        android:textSize="3pt"
+        android:textColor="#000"
+        android:background="@android:color/white"
+        android:layout_marginTop="350dp"
+        android:layout_marginLeft="250dp" />
+</RelativeLayout>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="myQuestion1">I am a human being</string>
+    <string name="myQuestion2">I am an American</string>
+    <string name="myQuestion3">I am an alien</string>
+    <string name="false_button">False</string>
+    <string name="true_button">True</string>
+    <string name="next_button">Next</string>
+    <string name="noButton">None</string>
+</resources>

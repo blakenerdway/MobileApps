@@ -1,0 +1,2 @@
+F:\School\cs335-0\NoteCards\NoteCards\NoteCards.WinPhone\NoteCards.WinPhone.csproj;neutral
+F:\School\cs335-0\NoteCards\NoteCards\NoteCards\NoteCards.csproj;neutral

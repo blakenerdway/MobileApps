@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_parking_lot"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".LotActivity">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="12pt"
+        android:textColor="#000"
+        android:text="@string/ballardStr"
+        android:id="@+id/parkingLotTitle"
+        android:layout_centerHorizontal="true" />
+
+    <RadioGroup
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:id="@+id/choices"
+        android:orientation="horizontal"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="40dp">
+        <RadioButton
+            android:text="@string/carPresent"
+            android:id="@+id/radioButton1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <RadioButton
+            android:text="@string/carGone"
+            android:id="@+id/radioButton2"
+            android:layout_marginLeft="30dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <RadioButton
+            android:text="@string/carDiff"
+            android:id="@+id/radioButton3"
+            android:layout_marginLeft="30dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </RadioGroup>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/submit"
+        android:id="@+id/submitBtn"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Medium Text"
+        android:id="@+id/spotText"
+        android:layout_below="@+id/parkingLotTitle"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="New Text"
+        android:textSize="7pt"
+        android:layout_marginLeft="5dp"
+        android:id="@+id/make"
+        android:layout_alignBaseline="@+id/textView16"
+        android:layout_alignBottom="@+id/textView16"
+        android:layout_toRightOf="@+id/textView16"
+        android:layout_toEndOf="@+id/textView16" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/model"
+        android:textSize="7pt"
+        android:layout_marginLeft="10dp"
+        android:text="New Text"
+        android:layout_marginTop="17dp"
+        android:layout_below="@+id/spotText"
+        android:layout_toRightOf="@+id/make" />
+
+    <TextView
+        android:text="@string/license"
+        android:textSize="7pt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView17"
+        android:layout_below="@+id/textView16"
+        android:layout_toLeftOf="@+id/licensePlate"
+        android:layout_toStartOf="@+id/licensePlate" />
+
+    <Button
+        android:layout_width="90dp"
+        android:layout_height="40dp"
+        android:text="@string/prev"
+        android:textSize="6pt"
+        android:background="#FFF"
+        android:id="@+id/previous"
+        android:drawableLeft="@drawable/arrow_left"
+        android:layout_below="@+id/textView18"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:layout_width="80dp"
+        android:layout_height="40dp"
+        android:background="#FFF"
+        android:textSize="6pt"
+        android:text="@string/next"
+        android:id="@+id/next"
+        android:drawableRight="@drawable/arrow_right"
+        android:layout_centerVertical="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <TextView
+        android:text="@string/car"
+        android:textSize="7pt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView16"
+        android:layout_alignBaseline="@+id/model"
+        android:layout_alignBottom="@+id/model"
+        android:layout_alignLeft="@+id/spotText"
+        android:layout_alignStart="@+id/spotText" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="New Text"
+        android:textSize="7pt"
+        android:layout_marginLeft="5dp"
+        android:id="@+id/licensePlate"
+        android:layout_below="@+id/make"
+        android:layout_alignLeft="@+id/make"
+        android:layout_alignStart="@+id/make" />
+
+    <TextView
+        android:text="@string/state"
+        android:textSize="7pt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView18"
+        android:layout_below="@+id/textView17"
+        android:layout_alignRight="@+id/textView17"
+        android:layout_alignEnd="@+id/textView17" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="New Text"
+        android:textSize="7pt"
+        android:layout_marginLeft="5dp"
+        android:id="@+id/state"
+        android:layout_alignBaseline="@+id/textView18"
+        android:layout_alignBottom="@+id/textView18"
+        android:layout_toRightOf="@+id/textView18"
+        android:layout_toEndOf="@+id/textView18" />
+
+
+</RelativeLayout>

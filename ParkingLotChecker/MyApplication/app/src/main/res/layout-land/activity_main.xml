@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".MainActivity">
+
+    <!-- Check mark was found on pixabay.com -->
+
+    <Button
+        android:layout_width="190dp"
+        android:layout_height="wrap_content"
+        android:text="@string/ballardStr"
+        android:textSize="6pt"
+        android:id="@+id/ballardBtn"
+        android:layout_marginTop="10dp" />
+
+    <Button
+        android:layout_width="190dp"
+        android:layout_height="wrap_content"
+        android:text="@string/youngStr"
+        android:id="@+id/youngBtn"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="350dp"/>
+
+    <Button
+        android:layout_width="190dp"
+        android:layout_height="wrap_content"
+        android:textSize="5.7pt"
+        android:text="@string/eastStr"
+        android:id="@+id/eastBtn"
+        android:layout_marginTop="85dp" />
+
+    <Button
+        android:layout_width="190dp"
+        android:layout_height="wrap_content"
+        android:textSize="5.7pt"
+        android:text="@string/eaglesStr"
+        android:id="@+id/eaglesBtn"
+        android:layout_marginTop="85dp"
+        android:layout_marginLeft="350dp" />
+
+    <Button
+        android:layout_width="190dp"
+        android:layout_height="wrap_content"
+        android:text="@string/girlsStr"
+        android:textSize="5.8pt"
+        android:id="@+id/girlsBtn"
+        android:layout_marginTop="170dp"
+        android:layout_marginLeft="350dp" />
+
+    <TextView
+        android:text="@string/exception"
+        android:textSize="4pt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ballardBtn"
+        android:textColor="#c3ff0000"
+        android:layout_alignLeft="@+id/ballardBtn"
+        android:layout_alignStart="@+id/ballardBtn"
+        android:id="@+id/ballardExc" />
+    <TextView
+        android:text="@string/notice"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/ballardNotice"
+        android:textColor="#c3ff0000"
+        android:layout_alignTop="@+id/ballardBtn"
+        android:layout_toRightOf="@+id/ballardBtn"
+        android:layout_toEndOf="@+id/ballardBtn" />
+
+    <TextView
+        android:text="@string/exception"
+        android:textSize="4pt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/youngBtn"
+        android:textColor="#c3ff0000"
+        android:layout_alignLeft="@+id/youngBtn"
+        android:layout_alignStart="@+id/youngBtn"
+        android:id="@+id/youngExc" />
+    <TextView
+        android:text="@string/notice"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/youngNotice"
+        android:textColor="#c3ff0000"
+        android:layout_alignTop="@+id/youngBtn"
+        android:layout_toRightOf="@+id/youngBtn"
+        android:layout_toEndOf="@+id/youngBtn" />
+
+    <TextView
+        android:text="@string/exception"
+        android:textSize="4pt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/eastBtn"
+        android:textColor="#c3ff0000"
+        android:layout_alignLeft="@+id/eastBtn"
+        android:layout_alignStart="@+id/eastBtn"
+        android:id="@+id/eastExc" />
+    <TextView
+        android:text="@string/notice"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/eastNotice"
+        android:textColor="#c3ff0000"
+        android:layout_alignTop="@+id/eastBtn"
+        android:layout_toRightOf="@+id/eastBtn"
+        android:layout_toEndOf="@+id/eastBtn" />
+
+    <TextView
+        android:text="@string/exception"
+        android:textSize="4pt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/eaglesBtn"
+        android:textColor="#c3ff0000"
+        android:layout_alignLeft="@+id/eaglesBtn"
+        android:layout_alignStart="@+id/eaglesBtn"
+        android:id="@+id/eaglesExc" />
+    <TextView
+        android:text="@string/notice"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/eaglesNotice"
+        android:textColor="#c3ff0000"
+        android:layout_alignTop="@+id/eaglesBtn"
+        android:layout_toRightOf="@+id/eaglesBtn"
+        android:layout_toEndOf="@+id/eaglesBtn" />
+
+    <TextView
+        android:text="@string/exception"
+        android:textSize="4pt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/girlsBtn"
+        android:textColor="#c3ff0000"
+        android:layout_alignLeft="@+id/girlsBtn"
+        android:layout_alignStart="@+id/girlsBtn"
+        android:id="@+id/girlsExc" />
+    <TextView
+        android:text="@string/notice"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/girlsNotice"
+        android:textColor="#c3ff0000"
+        android:layout_alignTop="@+id/girlsBtn"
+        android:layout_toRightOf="@+id/girlsBtn"
+        android:layout_toEndOf="@+id/girlsBtn" />
+
+    <ImageView
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:src="@drawable/checkmark"
+        android:id="@+id/ballardChkMark"
+        android:layout_marginTop="25dp"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/ballardBtn" />
+
+    <ImageView
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:src="@drawable/checkmark"
+        android:id="@+id/youngChkMark"
+        android:layout_marginTop="25dp"
+        android:layout_toRightOf="@+id/youngBtn"/>
+
+    <ImageView
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:src="@drawable/checkmark"
+        android:id="@+id/eastChkMark"
+        android:layout_marginTop="110dp"
+        android:layout_toRightOf="@+id/eastBtn"/>
+
+    <ImageView
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:src="@drawable/checkmark"
+        android:id="@+id/eaglesChkMark"
+        android:layout_marginTop="110dp"
+        android:layout_toRightOf="@+id/eaglesBtn"/>
+
+    <ImageView
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:src="@drawable/checkmark"
+        android:id="@+id/girlsChkMark"
+        android:layout_marginTop="195dp"
+        android:layout_toRightOf="@+id/girlsBtn"/>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="5pt"
+        android:text="Ballard:"
+        android:layout_marginTop="175dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="5pt"
+        android:text="Young:"
+        android:layout_marginTop="190dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="5pt"
+        android:text="EastField:"
+        android:layout_marginTop="205dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="5pt"
+        android:text="EaglesField:"
+        android:layout_marginTop="220dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="5pt"
+        android:text="Girls Garage:"
+        android:layout_marginTop="235dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="5/5"
+        android:textSize="5pt"
+        android:id="@+id/textView"
+        android:layout_marginTop="175dp"
+        android:layout_marginLeft="110dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="5/5"
+        android:textSize="5pt"
+        android:id="@+id/textView4"
+        android:layout_marginTop="190dp"
+        android:layout_marginLeft="110dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="5/5"
+        android:textSize="5pt"
+        android:id="@+id/textView7"
+        android:layout_marginTop="205dp"
+        android:layout_marginLeft="110dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="5/5"
+        android:textSize="5pt"
+        android:id="@+id/textView10"
+        android:layout_marginTop="220dp"
+        android:layout_marginLeft="110dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="5/5"
+        android:textSize="5pt"
+        android:id="@+id/textView13"
+        android:layout_marginTop="235dp"
+        android:layout_marginLeft="110dp"/>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView2"
+        android:text="5/5"
+        android:textSize="5pt"
+        android:layout_marginTop="175dp"
+        android:layout_marginLeft="180dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView5"
+        android:text="5/5"
+        android:textSize="5pt"
+        android:layout_marginTop="190dp"
+        android:layout_marginLeft="180dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView8"
+        android:text="5/5"
+        android:textSize="5pt"
+        android:layout_marginTop="205dp"
+        android:layout_marginLeft="180dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView11"
+        android:text="5/5"
+        android:textSize="5pt"
+        android:layout_marginTop="220dp"
+        android:layout_marginLeft="180dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView14"
+        android:text="5/5"
+        android:textSize="5pt"
+        android:layout_marginTop="235dp"
+        android:layout_marginLeft="180dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView3"
+        android:text="5/5"
+        android:textSize="5pt"
+        android:layout_marginTop="175dp"
+        android:layout_marginLeft="255dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView6"
+        android:text="5/5"
+        android:textSize="5pt"
+        android:layout_marginTop="190dp"
+        android:layout_marginLeft="255dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView9"
+        android:text="5/5"
+        android:textSize="5pt"
+        android:layout_marginTop="205dp"
+        android:layout_marginLeft="255dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView12"
+        android:text="5/5"
+        android:textSize="5pt"
+        android:layout_marginTop="220dp"
+        android:layout_marginLeft="255dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView15"
+        android:text="5/5"
+        android:textSize="5pt"
+        android:layout_marginTop="235dp"
+        android:layout_marginLeft="255dp"/>
+
+
+</RelativeLayout>

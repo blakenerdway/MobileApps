@@ -1,0 +1,307 @@
+<resources>
+    <string name="app_name">BibleApp</string>
+    <string name="fJohn">1 John</string>
+    <string name="sJohn">2 John</string>
+    <string name="tJohn">3 John</string>
+
+    <string name="fJch1">1 John 1</string>
+    <string name="fJch2">1 John 2</string>
+    <string name="fJch3">1 John 3</string>
+    <string name="fJch4">1 John 4</string>
+    <string name="fJch5">1 John 5</string>
+    <string name="sJch1">2 John 1</string>
+    <string name="tJch1">3 John 1</string>
+
+    <string name="fJ1v1">1 John 1:1</string>
+    <string name="fJ1v2">1 John 1:2</string>
+    <string name="fJ1v3">1 John 1:3</string>
+    <string name="fJ1v4">1 John 1:4</string>
+    <string name="fJ1v5">1 John 1:5</string>
+    <string name="fJ1v6">1 John 1:6</string>
+    <string name="fJ1v7">1 John 1:7</string>
+    <string name="fJ1v8">1 John 1:8</string>
+    <string name="fJ1v9">1 John 1:9</string>
+    <string name="fJ1v10">1 John 1:10</string>
+
+
+    <string name="fJ2v1">1 John 2:1</string>
+    <string name="fJ2v2">1 John 2:2</string>
+    <string name="fJ2v3">1 John 2:3</string>
+    <string name="fJ2v4">1 John 2:4</string>
+    <string name="fJ2v5">1 John 2:5</string>
+    <string name="fJ2v6">1 John 2:6</string>
+    <string name="fJ2v7">1 John 2:7</string>
+    <string name="fJ2v8">1 John 2:8</string>
+    <string name="fJ2v9">1 John 2:9</string>
+    <string name="fJ2v10">1 John 2:10</string>
+    <string name="fJ2v11">1 John 2:11</string>
+    <string name="fJ2v12">1 John 2:12</string>
+    <string name="fJ2v13">1 John 2:13</string>
+    <string name="fJ2v14">1 John 2:14</string>
+    <string name="fJ2v15">1 John 2:15</string>
+    <string name="fJ2v16">1 John 2:16</string>
+    <string name="fJ2v17">1 John 2:17</string>
+    <string name="fJ2v18">1 John 2:18</string>
+    <string name="fJ2v19">1 John 2:19</string>
+    <string name="fJ2v20">1 John 2:20</string>
+    <string name="fJ2v21">1 John 2:21</string>
+    <string name="fJ2v22">1 John 2:22</string>
+    <string name="fJ2v23">1 John 2:23</string>
+    <string name="fJ2v24">1 John 2:24</string>
+    <string name="fJ2v25">1 John 2:25</string>
+    <string name="fJ2v26">1 John 2:26</string>
+    <string name="fJ2v27">1 John 2:27</string>
+    <string name="fJ2v28">1 John 2:28</string>
+    <string name="fJ2v29">1 John 2:29</string>
+
+
+    <string name="fJ3v1">1 John 3:1</string>
+    <string name="fJ3v2">1 John 3:2</string>
+    <string name="fJ3v3">1 John 3:3</string>
+    <string name="fJ3v4">1 John 3:4</string>
+    <string name="fJ3v5">1 John 3:5</string>
+    <string name="fJ3v6">1 John 3:6</string>
+    <string name="fJ3v7">1 John 3:7</string>
+    <string name="fJ3v8">1 John 3:8</string>
+    <string name="fJ3v9">1 John 3:9</string>
+    <string name="fJ3v10">1 John 3:10</string>
+    <string name="fJ3v11">1 John 3:11</string>
+    <string name="fJ3v12">1 John 3:12</string>
+    <string name="fJ3v13">1 John 3:13</string>
+    <string name="fJ3v14">1 John 3:14</string>
+    <string name="fJ3v15">1 John 3:15</string>
+    <string name="fJ3v16">1 John 3:16</string>
+    <string name="fJ3v17">1 John 3:17</string>
+    <string name="fJ3v18">1 John 3:18</string>
+    <string name="fJ3v19">1 John 3:19</string>
+    <string name="fJ3v20">1 John 3:20</string>
+    <string name="fJ3v21">1 John 3:21</string>
+    <string name="fJ3v22">1 John 3:22</string>
+    <string name="fJ3v23">1 John 3:23</string>
+    <string name="fJ3v24">1 John 3:24</string>
+
+    <string name="fJ4v1">1 John 4:1</string>
+    <string name="fJ4v2">1 John 4:2</string>
+    <string name="fJ4v3">1 John 4:3</string>
+    <string name="fJ4v4">1 John 4:4</string>
+    <string name="fJ4v5">1 John 4:5</string>
+    <string name="fJ4v6">1 John 4:6</string>
+    <string name="fJ4v7">1 John 4:7</string>
+    <string name="fJ4v8">1 John 4:8</string>
+    <string name="fJ4v9">1 John 4:9</string>
+    <string name="fJ4v10">1 John 4:10</string>
+    <string name="fJ4v11">1 John 4:11</string>
+    <string name="fJ4v12">1 John 4:12</string>
+    <string name="fJ4v13">1 John 4:13</string>
+    <string name="fJ4v14">1 John 4:14</string>
+    <string name="fJ4v15">1 John 4:15</string>
+    <string name="fJ4v16">1 John 4:16</string>
+    <string name="fJ4v17">1 John 4:17</string>
+    <string name="fJ4v18">1 John 4:18</string>
+    <string name="fJ4v19">1 John 4:19</string>
+    <string name="fJ4v20">1 John 4:20</string>
+    <string name="fJ4v21">1 John 4:21</string>
+
+    <string name="fJ5v1">1 John 5:1</string>
+    <string name="fJ5v2">1 John 5:2</string>
+    <string name="fJ5v3">1 John 5:3</string>
+    <string name="fJ5v4">1 John 5:4</string>
+    <string name="fJ5v5">1 John 5:5</string>
+    <string name="fJ5v6">1 John 5:6</string>
+    <string name="fJ5v7">1 John 5:7</string>
+    <string name="fJ5v8">1 John 5:8</string>
+    <string name="fJ5v9">1 John 5:9</string>
+    <string name="fJ5v10">1 John 5:10</string>
+    <string name="fJ5v11">1 John 5:11</string>
+    <string name="fJ5v12">1 John 5:12</string>
+    <string name="fJ5v13">1 John 5:13</string>
+    <string name="fJ5v14">1 John 5:14</string>
+    <string name="fJ5v15">1 John 5:15</string>
+    <string name="fJ5v16">1 John 5:16</string>
+    <string name="fJ5v17">1 John 5:17</string>
+    <string name="fJ5v18">1 John 5:18</string>
+    <string name="fJ5v19">1 John 5:19</string>
+    <string name="fJ5v20">1 John 5:20</string>
+    <string name="fJ5v21">1 John 5:21</string>
+
+
+    <string name="sJv1">2 John 1</string>
+    <string name="sJv2">2 John 2</string>
+    <string name="sJv3">2 John 3</string>
+    <string name="sJv4">2 John 4</string>
+    <string name="sJv5">2 John 5</string>
+    <string name="sJv6">2 John 6</string>
+    <string name="sJv7">2 John 7</string>
+    <string name="sJv8">2 John 8</string>
+    <string name="sJv9">2 John 9</string>
+    <string name="sJv10">2 John 10</string>
+    <string name="sJv11">2 John 11</string>
+    <string name="sJv12">2 John 12</string>
+    <string name="sJv13">2 John 13</string>
+
+    <string name="tJv1">3 John 1</string>
+    <string name="tJv2">3 John 2</string>
+    <string name="tJv3">3 John 3</string>
+    <string name="tJv4">3 John 4</string>
+    <string name="tJv5">3 John 5</string>
+    <string name="tJv6">3 John 6</string>
+    <string name="tJv7">3 John 7</string>
+    <string name="tJv8">3 John 8</string>
+    <string name="tJv9">3 John 9</string>
+    <string name="tJv10">3 John 10</string>
+    <string name="tJv11">3 John 11</string>
+    <string name="tJv12">3 John 12</string>
+    <string name="tJv13">3 John 13</string>
+    <string name="tJv14">3 John 14</string>
+
+
+
+
+
+
+    <string name="fjohn11">That which was from the beginning, which we have heard, which we have seen with our eyes, which we have looked upon, and our hands have handled, of the Word of life;</string>
+    <string name="fjohn12">(For the life was manifested, and we have seen [it], and bear witness, and shew unto you that eternal life, which was with the Father, and was manifested unto us;)</string>
+    <string name="fjohn13">That which we have seen and heard declare we unto you, that ye also may have fellowship with us: and truly our fellowship [is] with the Father, and with his Son Jesus Christ.</string>
+    <string name="fjohn14">And these things write we unto you, that your joy may be full.</string>
+    <string name="fjohn15">This then is the message which we have heard of him, and declare unto you, that God is light, and in him is no darkness at all.</string>
+    <string name="fjohn16">If we say that we have fellowship with him, and walk in darkness, we lie, and do not the truth:</string>
+    <string name="fjohn17">But if we walk in the light, as he is in the light, we have fellowship one with another, and the blood of Jesus Christ his Son cleanseth us from all sin.</string>
+    <string name="fjohn18">If we say that we have no sin, we deceive ourselves, and the truth is not in us.</string>
+    <string name="fjohn19">If we confess our sins, he is faithful and just to forgive us [our] sins, and to cleanse us from all unrighteousness.</string>
+    <string name="fjohn110">If we say that we have not sinned, we make him a liar, and his word is not in us.</string>
+
+
+    <string name="fjohn21">My little children, these things write I unto you, that ye sin not. And if any man sin, we have an advocate with the Father, Jesus Christ the righteous:</string>
+    <string name="fjohn22">And he is the propitiation for our sins: and not for our\'s only, but also for [the sins of] the whole world.</string>
+    <string name="fjohn23">And hereby we do know that we know him, if we keep his commandments.</string>
+    <string name="fjohn24">He that saith, I know him, and keepeth not his commandments, is a liar, and the truth is not in him.</string>
+    <string name="fjohn25">But whoso keepeth his word, in him verily is the love of God perfected: hereby know we that we are in him.</string>
+    <string name="fjohn26">He that saith he abideth in him ought himself also so to walk, even as he walked.</string>
+    <string name="fjohn27">Brethren, I write no new commandment unto you, but an old commandment which ye had from the beginning. The old commandment is the word which ye have heard from the beginning.</string>
+    <string name="fjohn28">Again, a new commandment I write unto you, which thing is true in him and in you: because the darkness is past, and the true light now shineth.</string>
+    <string name="fjohn29">He that saith he is in the light, and hateth his brother, is in darkness even until now.</string>
+    <string name="fjohn210">He that loveth his brother abideth in the light, and there is none occasion of stumbling in him.</string>
+    <string name="fjohn211">But he that hateth his brother is in darkness, and walketh in darkness, and knoweth not whither he goeth, because that darkness hath blinded his eyes.</string>
+    <string name="fjohn212">I write unto you, little children, because your sins are forgiven you for his name\'s sake.</string>
+    <string name="fjohn213">I write unto you, fathers, because ye have known him [that is] from the beginning. I write unto you, young men, because ye have overcome the wicked one. I write unto you, little children, because ye have known the Father.</string>
+    <string name="fjohn214">I have written unto you, fathers, because ye have known him [that is] from the beginning. I have written unto you, young men, because ye are strong, and the word of God abideth in you, and ye have overcome the wicked one.</string>
+    <string name="fjohn215">Love not the world, neither the things [that are] in the world. If any man love the world, the love of the Father is not in him.</string>
+    <string name="fjohn216">For all that [is] in the world, the lust of the flesh, and the lust of the eyes, and the pride of life, is not of the Father, but is of the world.</string>
+    <string name="fjohn217">And the world passeth away, and the lust thereof: but he that doeth the will of God abideth for ever.</string>
+    <string name="fjohn218">Little children, it is the last time: and as ye have heard that antichrist shall come, even now are there many antichrists; whereby we know that it is the last time.</string>
+    <string name="fjohn219">They went out from us, but they were not of us; for if they had been of us, they would [no doubt] have continued with us: but [they went out], that they might be made manifest that they were not all of us.</string>
+    <string name="fjohn220">But ye have an unction from the Holy One, and ye know all things.</string>
+    <string name="fjohn221">I have not written unto you because ye know not the truth, but because ye know it, and that no lie is of the truth.</string>
+    <string name="fjohn222">Who is a liar but he that denieth that Jesus is the Christ? He is antichrist, that denieth the Father and the Son.</string>
+    <string name="fjohn223">Whosoever denieth the Son, the same hath not the Father: [(but) he that acknowledgeth the Son hath the Father also].</string>
+    <string name="fjohn224">Let that therefore abide in you, which ye have heard from the beginning. If that which ye have heard from the beginning shall remain in you, ye also shall continue in the Son, and in the Father.</string>
+    <string name="fjohn225">And this is the promise that he hath promised us, [even] eternal life.</string>
+    <string name="fjohn226">These [things] have I written unto you concerning them that seduce you.</string>
+    <string name="fjohn227">But the anointing which ye have received of him abideth in you, and ye need not that any man teach you: but as the same anointing teacheth you of all things, and is truth, and is no lie, and even as it hath taught you, ye shall abide in him.</string>
+    <string name="fjohn228">And now, little children, abide in him; that, when he shall appear, we may have confidence, and not be ashamed before him at his coming.</string>
+    <string name="fjohn229">If ye know that he is righteous, ye know that every one that doeth righteousness is born of him.</string>
+
+
+    <string name="fjohn31">Behold, what manner of love the Father hath bestowed upon us, that we should be called the sons of God: therefore the world knoweth us not, because it knew him not.</string>
+    <string name="fjohn32">Beloved, now are we the sons of God, and it doth not yet appear what we shall be: but we know that, when he shall appear, we shall be like him; for we shall see him as he is.</string>
+    <string name="fjohn33">And every man that hath this hope in him purifieth himself, even as he is pure.</string>
+    <string name="fjohn34">Whosoever committeth sin transgresseth also the law: for sin is the transgression of the law.</string>
+    <string name="fjohn35">And ye know that he was manifested to take away our sins; and in him is no sin.</string>
+    <string name="fjohn36">Whosoever abideth in him sinneth not: whosoever sinneth hath not seen him, neither known him.</string>
+    <string name="fjohn37">Little children, let no man deceive you: he that doeth righteousness is righteous, even as he is righteous.</string>
+    <string name="fjohn38">He that committeth sin is of the devil; for the devil sinneth from the beginning. For this purpose the Son of God was manifested, that he might destroy the works of the devil.</string>
+    <string name="fjohn39">Whosoever is born of God doth not commit sin; for his seed remaineth in him: and he cannot sin, because he is born of God.</string>
+    <string name="fjohn310">In this the children of God are manifest, and the children of the devil: whosoever doeth not righteousness is not of God, neither he that loveth not his brother.</string>
+    <string name="fjohn311">For this is the message that ye heard from the beginning, that we should love one another.</string>
+    <string name="fjohn312">Not as Cain, [who] was of that wicked one, and slew his brother. And wherefore slew he him? Because his own works were evil, and his brother\'s righteous.</string>
+    <string name="fjohn313">Marvel not, my brethren, if the world hate you.</string>
+    <string name="fjohn314">We know that we have passed from death unto life, because we love the brethren. He that loveth not [his] brother abideth in death.</string>
+    <string name="fjohn315">Whosoever hateth his brother is a murderer: and ye know that no murderer hath eternal life abiding in him.</string>
+    <string name="fjohn316">Hereby perceive we the love [of God], because he laid down his life for us: and we ought to lay down [our] lives for the brethren.</string>
+    <string name="fjohn317">But whoso hath this world\'s good, and seeth his brother have need, and shutteth up his bowels [of compassion] from him, how dwelleth the love of God in him?</string>
+    <string name="fjohn318">My little children, let us not love in word, neither in tongue; but in deed and in truth.</string>
+    <string name="fjohn319">And hereby we know that we are of the truth, and shall assure our hearts before him.</string>
+    <string name="fjohn320">For if our heart condemn us, God is greater than our heart, and knoweth all things.</string>
+    <string name="fjohn321">Beloved, if our heart condemn us not, [then] have we confidence toward God.</string>
+    <string name="fjohn322">And whatsoever we ask, we receive of him, because we keep his commandments, and do those things that are pleasing in his sight.</string>
+    <string name="fjohn323">And this is his commandment, That we should believe on the name of his Son Jesus Christ, and love one another, as he gave us commandment.</string>
+    <string name="fjohn324">And he that keepeth his commandments dwelleth in him, and he in him. And hereby we know that he abideth in us, by the Spirit which he hath given us.</string>
+
+
+    <string name="fjohn41">Beloved, believe not every spirit, but try the spirits whether they are of God: because many false prophets are gone out into the world.</string>
+    <string name="fjohn42">Hereby know ye the Spirit of God: Every spirit that confesseth that Jesus Christ is come in the flesh is of God:</string>
+    <string name="fjohn43">And every spirit that confesseth not that Jesus Christ is come in the flesh is not of God: and this is that [spirit] of antichrist, whereof ye have heard that it should come; and even now already is it in the world.</string>
+    <string name="fjohn44">Ye are of God, little children, and have overcome them: because greater is he that is in you, than he that is in the world.</string>
+    <string name="fjohn45">They are of the world: therefore speak they of the world, and the world heareth them.</string>
+    <string name="fjohn46">We are of God: he that knoweth God heareth us; he that is not of God heareth not us. Hereby know we the spirit of truth, and the spirit of error.</string>
+    <string name="fjohn47">Beloved, let us love one another: for love is of God; and every one that loveth is born of God, and knoweth God.</string>
+    <string name="fjohn48">He that loveth not knoweth not God; for God is love.</string>
+    <string name="fjohn49">In this was manifested the love of God toward us, because that God sent his only begotten Son into the world, that we might live through him.</string>
+    <string name="fjohn410">Herein is love, not that we loved God, but that he loved us, and sent his Son [to be] the propitiation for our sins.</string>
+    <string name="fjohn411">Beloved, if God so loved us, we ought also to love one another.</string>
+    <string name="fjohn412">No man hath seen God at any time. If we love one another, God dwelleth in us, and his love is perfected in us.</string>
+    <string name="fjohn413">Hereby know we that we dwell in him, and he in us, because he hath given us of his Spirit.</string>
+    <string name="fjohn414">And we have seen and do testify that the Father sent the Son [to be] the Saviour of the world.</string>
+    <string name="fjohn415">Whosoever shall confess that Jesus is the Son of God, God dwelleth in him, and he in God.</string>
+    <string name="fjohn416">And we have known and believed the love that God hath to us. God is love; and he that dwelleth in love dwelleth in God, and God in him.</string>
+    <string name="fjohn417">Herein is our love made perfect, that we may have boldness in the day of judgment: because as he is, so are we in this world.</string>
+    <string name="fjohn418">There is no fear in love; but perfect love casteth out fear: because fear hath torment. He that feareth is not made perfect in love.</string>
+    <string name="fjohn419">We love him, because he first loved us.</string>
+    <string name="fjohn420">If a man say, I love God, and hateth his brother, he is a liar: for he that loveth not his brother whom he hath seen, how can he love God whom he hath not seen?</string>
+    <string name="fjohn421">And this commandment have we from him, That he who loveth God love his brother also.</string>
+
+
+    <string name="fjohn51">Whosoever believeth that Jesus is the Christ is born of God: and every one that loveth him that begat loveth him also that is begotten of him.</string>
+    <string name="fjohn52">By this we know that we love the children of God, when we love God, and keep his commandments.</string>
+    <string name="fjohn53">For this is the love of God, that we keep his commandments: and his commandments are not grievous.</string>
+    <string name="fjohn54">For whatsoever is born of God overcometh the world: and this is the victory that overcometh the world, [even] our faith.</string>
+    <string name="fjohn55">Who is he that overcometh the world, but he that believeth that Jesus is the Son of God?</string>
+    <string name="fjohn56">This is he that came by water and blood, [even] Jesus Christ; not by water only, but by water and blood. And it is the Spirit that beareth witness, because the Spirit is truth.</string>
+    <string name="fjohn57">For there are three that bear record in heaven, the Father, the Word, and the Holy Ghost: and these three are one.</string>
+    <string name="fjohn58">And there are three that bear witness in earth, the Spirit, and the water, and the blood: and these three agree in one.</string>
+    <string name="fjohn59">If we receive the witness of men, the witness of God is greater: for this is the witness of God which he hath testified of his Son.</string>
+    <string name="fjohn510">He that believeth on the Son of God hath the witness in himself: he that believeth not God hath made him a liar; because he believeth not the record that God gave of his Son.</string>
+    <string name="fjohn511">And this is the record, that God hath given to us eternal life, and this life is in his Son.</string>
+    <string name="fjohn512">He that hath the Son hath life; [and] he that hath not the Son of God hath not life.</string>
+    <string name="fjohn513">These things have I written unto you that believe on the name of the Son of God; that ye may know that ye have eternal life, and that ye may believe on the name of the Son of God.</string>
+    <string name="fjohn514">And this is the confidence that we have in him, that, if we ask any thing according to his will, he heareth us:</string>
+    <string name="fjohn515">And if we know that he hear us, whatsoever we ask, we know that we have the petitions that we desired of him.</string>
+    <string name="fjohn516">If any man see his brother sin a sin [which is] not unto death, he shall ask, and he shall give him life for them that sin not unto death. There is a sin unto death: I do not say that he shall pray for it.</string>
+    <string name="fjohn517">All unrighteousness is sin: and there is a sin not unto death.</string>
+    <string name="fjohn518">We know that whosoever is born of God sinneth not; but he that is begotten of God keepeth himself, and that wicked one toucheth him not.</string>
+    <string name="fjohn519">[And] we know that we are of God, and the whole world lieth in wickedness.</string>
+    <string name="fjohn520">And we know that the Son of God is come, and hath given us an understanding, that we may know him that is true, and we are in him that is true, [even] in his Son Jesus Christ. This is the true God, and eternal life.</string>
+    <string name="fjohn521">Little children, keep yourselves from idols. Amen.</string>
+
+    <string name="sjohn1">The elder unto the elect lady and her children, whom I love in the truth; and not I only, but also all they that have known the truth; </string>
+    <string name="sjohn2">For the truth\'s sake, which dwelleth in us, and shall be with us for ever. </string>
+    <string name="sjohn3">Grace be with you, mercy, [and] peace, from God the Father, and from the Lord Jesus Christ, the Son of the Father, in truth and love. </string>
+    <string name="sjohn4">I rejoiced greatly that I found of thy children walking in truth, as we have received a commandment from the Father. </string>
+    <string name="sjohn5">And now I beseech thee, lady, not as though I wrote a new commandment unto thee, but that which we had from the beginning, that we love one another. </string>
+    <string name="sjohn6">And this is love, that we walk after his commandments. This is the commandment, That, as ye have heard from the beginning, ye should walk in it. </string>
+    <string name="sjohn7">For many deceivers are entered into the world, who confess not that Jesus Christ is come in the flesh. This is a deceiver and an antichrist. </string>
+    <string name="sjohn8">Look to yourselves, that we lose not those things which we have wrought, but that we receive a full reward. </string>
+    <string name="sjohn9">Whosoever transgresseth, and abideth not in the doctrine of Christ, hath not God. He that abideth in the doctrine of Christ, he hath both the Father and the Son. </string>
+    <string name="sjohn10">If there come any unto you, and bring not this doctrine, receive him not into [your] house, neither bid him God speed: </string>
+    <string name="sjohn11">For he that biddeth him God speed is partaker of his evil deeds. </string>
+    <string name="sjohn12">Having many things to write unto you, I would not [write] 1with paper and ink: but I trust to come unto you, and speak face to face, that our joy may be full. </string>
+    <string name="sjohn13">The children of thy elect sister greet thee. Amen.</string>
+
+    <string name="tjohn1">The elder unto the wellbeloved Gaius, whom I love in the truth.</string>
+    <string name="tjohn2">Beloved, I wish above all things that thou mayest prosper and be in health, even as thy soul prospereth.</string>
+    <string name="tjohn3">For I rejoiced greatly, when the brethren came and testified of the truth that is in thee, even as thou walkest in the truth.</string>
+    <string name="tjohn4">I have no greater joy than to hear that my children walk in truth.</string>
+    <string name="tjohn5">Beloved, thou doest faithfully whatsoever thou doest to the brethren, and to strangers;</string>
+    <string name="tjohn6">Which have borne witness of thy charity before the church: whom if thou bring forward on their journey after a godly sort, thou shalt do well:</string>
+    <string name="tjohn7">Because that for his name\'s sake they went forth, taking nothing of the Gentiles.</string>
+    <string name="tjohn8">We therefore ought to receive such, that we might be fellowhelpers to the truth.</string>
+    <string name="tjohn9">I wrote unto the church: but Diotrephes, who loveth to have the preeminence among them, receiveth us not.</string>
+    <string name="tjohn10">Wherefore, if I come, I will remember his deeds which he doeth, prating against us with malicious words: and not content therewith, neither doth he himself receive the brethren, and forbiddeth them that would, and casteth them out of the church.</string>
+    <string name="tjohn11">Beloved, follow not that which is evil, but that which is good. He that doeth good is of God: but he that doeth evil hath not seen God.</string>
+    <string name="tjohn12">Demetrius hath good report of all men, and of the truth itself: yea, and we also bear record; and ye know that our record is true.</string>
+    <string name="tjohn13">I had many things to write, but I will not with ink and pen write unto thee:</string>
+    <string name="tjohn14">But I trust I shall shortly see thee, and we shall speak face to face. Peace be to thee. Our friends salute thee. Greet the friends by name.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

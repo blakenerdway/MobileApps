@@ -1,0 +1,19 @@
+﻿<Page
+    x:Class="Uni.BlankPage2"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Uni"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Grid x:Name="centerSection" Height="200" Width="600">
+            <TextBox x:Name="firstTopic" KeyDown="firstTopic_KeyDown" Foreground="Gray" HorizontalAlignment="Center" Width="250" VerticalAlignment="Bottom" Text="Enter your first topic here!" FontSize="20pt" Margin="175,0,175,80" />
+            <Button x:Name="addFirstTopicBtn" Content="Add and finish" VerticalAlignment="Bottom" HorizontalAlignment="Center" Background="DeepSkyBlue" FontSize="20pt" Click="addFirstTopicBtn_Click" />
+            <TextBox x:Name="topicBox" HorizontalAlignment="Center" IsReadOnly="true" Margin="0,10,0,0" FontSize="25" TextWrapping="Wrap" BorderThickness="0" FontWeight="Bold" Text="Create your first topic!" VerticalAlignment="Top"/>
+            <TextBox x:Name="errorMessage" HorizontalAlignment="Left" BorderThickness="0" FontSize="10pt" Foreground="Red" IsReadOnly="True" IsTabStop="false" IsTapEnabled="False" Margin="185,125,0,0" TextWrapping="Wrap" Width="250" VerticalAlignment="Top"/>
+
+        </Grid>
+    </Grid>
+</Page>

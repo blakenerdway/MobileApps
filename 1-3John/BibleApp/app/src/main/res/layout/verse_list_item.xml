@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_marginTop="20dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/verseFragString"
+        android:textSize="8pt"
+        android:textColor="#000"
+        android:text="hello"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginStart="10dp"/>
+
+    <ImageView
+        android:layout_width="15dp"
+        android:layout_height="15dp"
+        android:id="@+id/verseFragCheck"
+        android:src="@drawable/checkmark"
+        android:layout_marginRight="20dp"
+        android:layout_alignParentRight="true"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:id="@+id/verseTextPreview"
+        android:text="hello"
+        android:layout_below="@+id/verseFragString"
+        android:layout_alignLeft="@+id/verseFragString"
+        android:layout_alignStart="@+id/verseFragString" />
+
+</RelativeLayout>
+

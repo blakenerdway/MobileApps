@@ -1,0 +1,5 @@
+F:\School\cs335-0\InClass\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.dll
+F:\School\cs335-0\InClass\WindowsApp1\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+F:\School\cs335-0\InClass\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.csprojResolveAssemblyReference.cache
+F:\School\cs335-0\InClass\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.dll
+F:\School\cs335-0\InClass\WindowsApp1\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb

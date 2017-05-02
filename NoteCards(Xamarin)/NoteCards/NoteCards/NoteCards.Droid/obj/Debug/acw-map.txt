@@ -1,0 +1,12 @@
+NoteCards.Droid.AddCard, NoteCards.Droid;md5f3cb794e0155e27c444a32d4d241d76a.AddCard
+NoteCards.Droid.AddCard, NoteCards.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5f3cb794e0155e27c444a32d4d241d76a.AddCard
+NoteCards.Droid.AddCard;md5f3cb794e0155e27c444a32d4d241d76a.AddCard
+notecards.droid.AddCard;md5f3cb794e0155e27c444a32d4d241d76a.AddCard
+NoteCards.Droid.MainActivity, NoteCards.Droid;md5f3cb794e0155e27c444a32d4d241d76a.MainActivity
+NoteCards.Droid.MainActivity, NoteCards.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5f3cb794e0155e27c444a32d4d241d76a.MainActivity
+NoteCards.Droid.MainActivity;md5f3cb794e0155e27c444a32d4d241d76a.MainActivity
+notecards.droid.MainActivity;md5f3cb794e0155e27c444a32d4d241d76a.MainActivity
+NoteCards.Droid.ShowCards, NoteCards.Droid;md5f3cb794e0155e27c444a32d4d241d76a.ShowCards
+NoteCards.Droid.ShowCards, NoteCards.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5f3cb794e0155e27c444a32d4d241d76a.ShowCards
+NoteCards.Droid.ShowCards;md5f3cb794e0155e27c444a32d4d241d76a.ShowCards
+notecards.droid.ShowCards;md5f3cb794e0155e27c444a32d4d241d76a.ShowCards
